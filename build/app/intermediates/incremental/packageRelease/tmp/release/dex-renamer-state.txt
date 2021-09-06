@@ -1,0 +1,4 @@
+#Sun Feb 14 21:32:46 CET 2021
+base.0=/home/oem/AndroidStudioProjects/my_first_app/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
