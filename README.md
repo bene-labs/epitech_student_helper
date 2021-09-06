@@ -1,4 +1,4 @@
-# my_first_app
+# Epitech student helper
 
 A new Flutter application.
 
